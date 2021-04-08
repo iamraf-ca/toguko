@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h1 align="center">I'm Rafael, but you can call me just RAF or by my nickname <b>Toguko</b></h1>
+<h1 align="center">I'm Rafael, but you can call by my nickname <b>Toguko</b></h1>
 <h3 align="center">Telecom Specialist & Python Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://toguko.com](https://toguko.com)
