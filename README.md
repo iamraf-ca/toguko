@@ -1,12 +1,8 @@
-<h1 align="center">Hey there 👋</h1>
-<h1 align="center">I'm Rafael, but you can call by my nickname <b>Toguko</b></h1>
-<h3 align="center">Telecom Specialist & Python Developer</h3>
+<h1 align="center">Hi 👋, It’s My Pleasure to have you here...Feel free to check my code corner on the Internet 🌐💻 </h1>
 
-- 👨‍💻 All of my projects are available at [https://toguko.com](https://toguko.com)
+- 👨‍💻 My toughts are here: [https://toguko.com](https://toguko.com)
 
-- 📝 I regulary write articles on Linkedin [https://www.linkedin.com/in/rafaeldias1/](https://www.linkedin.com/in/rafaeldias1/)
-
-- 💬 Ask me about **Telecom Networks & Business Analysis, Python + Django + FastAPI,  Hypnosis **
+- 📝 I write some articles on Linkedin: [https://www.linkedin.com/in/rafaeldias1/](https://www.linkedin.com/in/rafaeldias1/)
 
 - 📫 How to reach me, send me a DM on Twitter **https://twitter.com/toguko**
 
