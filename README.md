@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, It’s My Pleasure to have you here...Feel free to check my code corner on the Internet 🌐💻 </h1>
+<h1 align="center">Hi there 👋</h1>
 
 - 👨‍💻 My toughts are here: [https://toguko.com](https://toguko.com)
 
 - 📝 I write some articles on Linkedin: [https://www.linkedin.com/in/rafaeldias1/](https://www.linkedin.com/in/rafaeldias1/)
 
-- 📫 How to reach me, send me a DM on Twitter **https://twitter.com/toguko**
+- 📫 How to reach me? Send me a DM on Twitter **https://twitter.com/toguko**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
