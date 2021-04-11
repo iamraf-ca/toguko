@@ -9,7 +9,7 @@
 &nbsp;
 &nbsp;
   
-## Connect with me:
+## 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://twitter.com/toguko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Toguko" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rafaeldias1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Toguko" height="30" width="40" /></a>
