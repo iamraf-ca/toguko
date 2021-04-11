@@ -36,20 +36,16 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=javascript&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/Node.js-E34F26?style=for-the-badge&logo=node.js&logoColor=white)
 
-  - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-- 💻 &nbsp;
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=white)
-  
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-323330?style=for-the-badge&logo=markdown&logoColor=white)
 
+- 💻 &nbsp;
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-316192?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Kali-316192?style=for-the-badge&logo=kali&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-316192?style=for-the-badge&logo=android&logoColor=white)
+  
 <br/>
 
 <p>
