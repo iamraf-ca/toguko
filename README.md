@@ -43,7 +43,7 @@
 
 - 💻 &nbsp;
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-316192?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Kali-316192?style=for-the-badge&logo=kali&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Linux-316192?style=for-the-badge&logo=linux&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-316192?style=for-the-badge&logo=android&logoColor=white)
   
 <br/>
