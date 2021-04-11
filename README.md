@@ -34,6 +34,7 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-E34F26?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-E34F26?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=javascript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=react&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/Node.js-E34F26?style=for-the-badge&logo=node.js&logoColor=white)
 
 - ⚙️ &nbsp;
@@ -43,27 +44,9 @@
 
 - 💻 &nbsp;
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-316192?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Linux-316192?style=for-the-badge&logo=linux&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-316192?style=for-the-badge&logo=linux&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-316192?style=for-the-badge&logo=android&logoColor=white)
   
-<br/>
-
-<p>
-  
-## 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-
-
-
-
-
 &nbsp;
 &nbsp;
 
