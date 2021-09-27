@@ -23,36 +23,6 @@
 &nbsp;
 &nbsp;
 
-## 🛠 &nbsp;Tech Stack
-
-- :space_invader:
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-14354C?style=for-the-badge&logo=flask&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-14354C?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![POSTGRESSQL](https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-E34F26?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-E34F26?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=javascript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=react&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/Node.js-E34F26?style=for-the-badge&logo=node.js&logoColor=white)
-
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-323330?style=for-the-badge&logo=markdown&logoColor=white)
-
-- 💻 &nbsp;
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-316192?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-316192?style=for-the-badge&logo=linux&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-316192?style=for-the-badge&logo=android&logoColor=white)
-  
-&nbsp;
-&nbsp;
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
