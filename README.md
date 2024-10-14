@@ -4,7 +4,7 @@
 
 - 📝 I write some articles on Linkedin: [https://www.linkedin.com/in/rafaeldias1/](https://www.linkedin.com/in/rafaeldias1/)
 
-- 📫 How to reach me? Send me a DM on Twitter **https://twitter.com/toguko**
+- 📫 How to reach me? Please send me a DM on Linkedin**
 
 &nbsp;
 &nbsp;
