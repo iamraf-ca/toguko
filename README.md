@@ -4,7 +4,7 @@
 
 - 📝 I write some articles on Linkedin: [https://www.linkedin.com/in/rafaeldias1/](https://www.linkedin.com/in/rafaeldias1/)
 
-- 📫 How to reach me? Please send me a DM on Linkedin**
+- 📫 How to reach me? Please send me a DM on Linkedin
 
 &nbsp;
 &nbsp;
